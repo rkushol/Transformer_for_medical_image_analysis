@@ -63,6 +63,7 @@ Please check out our survey paper:\
 ## Image Classification & Detection
 |Date|First Author|Title|Modality|ND|Code|Paper|
 |---|---|---|---|---|---|---|
+|06/20/2022|Rafsanjany Kushol |Addformer: Alzheimer's Disease Detection from Structural Mri Using Fusion Transformer| MRI |2D| N/A | ISBI 2022 [IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9761421&casa_token=XeDg6r291V0AAAAA:qx4h-hNJM1Qeq7Tqd5yEiU8p8r8q5KZz51C9f_eJMtT-VxTQXJj5YCv-vig_uBzfOmyFG-XS&tag=1)|
 |03/12/2022|Heqin Zhu |DATR: Domain-adaptive transformer for multi-domain landmark detection| X-Ray |2D| N/A | [![arXiv](https://img.shields.io/badge/arXiv-2203.06433-b31b1b.svg)](https://arxiv.org/abs/2203.06433)|
 |03/10/2022|Lei Zhou |Self Pre-training with Masked Autoencoders for Medical Image Analysis| CT & MRI |3D| N/A | [![arXiv](https://img.shields.io/badge/arXiv-2203.05573-b31b1b.svg)](https://arxiv.org/abs/2203.05573)|
 |02/13/2022|Sangjoon Park |AI can evolve without labels: self-evolving vision transformer for chest X-ray diagnosis through knowledge distillation| X-ray |2D | [Unknown](https://github.com/depecher/) | [![arXiv](https://img.shields.io/badge/arXiv-2202.06431-b31b1b.svg)](https://arxiv.org/abs/2202.06431)|
